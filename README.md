@@ -1,4 +1,4 @@
-![Header](./public/assets/bannerAkira.png)
+
 
 ## 🛠 Run it locally
 
